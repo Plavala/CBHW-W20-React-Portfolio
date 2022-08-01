@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CBHW-W20-React-Portfolio/static/css/main.7c741fe8.css",
+    "main.js": "/CBHW-W20-React-Portfolio/static/js/main.d28e0d1d.js",
+    "index.html": "/CBHW-W20-React-Portfolio/index.html",
+    "main.7c741fe8.css.map": "/CBHW-W20-React-Portfolio/static/css/main.7c741fe8.css.map",
+    "main.d28e0d1d.js.map": "/CBHW-W20-React-Portfolio/static/js/main.d28e0d1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c741fe8.css",
+    "static/js/main.d28e0d1d.js"
+  ]
+}
